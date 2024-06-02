@@ -8,14 +8,4 @@ Write your implementation in `client/client.go` and your integration tests in `c
 
 To test your implementation, run `go test -v` inside of the `client_test` directory. This will run all tests in both `client/client_unittest.go` and `client_test/client_test.go`.
 
-## Project Members
-
-Fill in this section with the student IDs of all the members in your project group.
-
-Partner 1 SID: 3035822230
-
-Partner 2 SID (if applicable):
-
-Also add a link to this repo below (should start with https://github.com/cs161-students/).
-
 Link to this Github repo: https://github.com/cs161-students/fa23-proj2-rm-rf.git
